@@ -47,3 +47,20 @@ Dentro del fichero "activity_main.xml" e creado la interfaz de los 2 botones y l
 Una vez hecho esto aplique codigo para que restasen o reseteasen el acumulador mediante las funciones "setOnClickListenner". 
 
 ![Alt text](4-1.png)
+
+### 4 Implementar el VIEW BINDING
+
+1.-Activarlo 
+![Alt text](act-1.png)
+
+2.-Sincronizar el proyecto
+![Alt text](sincr-1.png)
+
+3- Importa la clase de vinculación
+![Alt text](binding-1.png)
+
+4-Declarar-lo
+![Alt text](declarar-1.png)
+
+5-Modificar el setContentView
+6-Acceder a los elementos de la interficie.
